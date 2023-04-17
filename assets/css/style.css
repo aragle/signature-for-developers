@@ -1,0 +1,15 @@
+/* Code Box */
+.code-box {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    font-family: 'Consolas', Courier, monospace;
+    font-size: 14px;
+    color: #333;
+
+}
+
+.code-box pre {
+    margin: 0;
+    border-radius: 0;
+    background-color: transparent;
+}
